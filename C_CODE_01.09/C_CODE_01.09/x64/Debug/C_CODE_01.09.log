@@ -1,0 +1,8 @@
+﻿  01_09.c
+e:\c\c_code\c_code_01.09\c_code_01.09\01_09.c(27): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  e:\c\c_code\c_code_01.09\c_code_01.09\01_09.c(27): note: 请考虑在格式字符串中使用“%zd”
+e:\c\c_code\c_code_01.09\c_code_01.09\01_09.c(28): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  e:\c\c_code\c_code_01.09\c_code_01.09\01_09.c(28): note: 请考虑在格式字符串中使用“%zd”
+e:\c\c_code\c_code_01.09\c_code_01.09\01_09.c(29): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  e:\c\c_code\c_code_01.09\c_code_01.09\01_09.c(29): note: 请考虑在格式字符串中使用“%zd”
+  C_CODE_01.09.vcxproj -> E:\C\C_CODE\C_CODE_01.09\x64\Debug\C_CODE_01.09.exe
